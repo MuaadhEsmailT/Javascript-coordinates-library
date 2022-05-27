@@ -33,7 +33,6 @@ I have included all the coordinates Latitude and Longitude for every 23 regions 
 <<<<<<< Updated upstream
 ## The Map:
 ![Map Image!](https://github.com/MuaadhEsmailT/Javascript-coordinates-library/blob/main/Map.PNG)
-=======
 
 
->>>>>>> Stashed changes
+
