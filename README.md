@@ -1,2 +1,2 @@
-## Javascript-coordinates-library
-# Javascript coordinates library for Seberang perai tengah
+# Javascript-coordinates-library
+## Javascript coordinates library for Seberang perai tengah
