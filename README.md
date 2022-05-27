@@ -30,7 +30,6 @@ It has 23 region:
 I have included all the coordinates Latitude and Longitude for every 23 regions and combine them together to display this library.
 
 ## To display this map I have used amCharts. You can use any JavaScript-based data visualization libraries other than amCharts. 
-<<<<<<< Updated upstream
 ## The Map:
 ![Map Image!](https://github.com/MuaadhEsmailT/Javascript-coordinates-library/blob/main/Map.PNG)
 
