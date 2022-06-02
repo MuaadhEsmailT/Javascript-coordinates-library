@@ -2,7 +2,7 @@
 ## Javascript coordinates library for Seberang perai tengah
 
 This javascript library contains the coordinates for the Seberang perai tengah area located in pulau pinang, Malaysia.
-It has 23 region: 
+It has 23 regions: 
 - Mukim 1
 - Mukim 2
 - Mukim 3
@@ -31,8 +31,12 @@ I have included all the coordinates Latitude and Longitude for every 23 regions 
 
 ## To display this map I have used amCharts. You can use any JavaScript-based data visualization libraries other than amCharts. 
 ## The Map:
-![Map Image!](https://github.com/MuaadhEsmailT/Javascript-coordinates-library/blob/main/Map.PNG)
+![Map Image!](https://github.com/MuaadhEsmailT/Javascript-coordinates-library/blob/main/Map.png)
 
+
+## Also, This Map display the name of the regions, as it shows below
+
+![Map Image!](https://github.com/MuaadhEsmailT/Javascript-coordinates-library/blob/main/Map_Example.png)
 
 
 
